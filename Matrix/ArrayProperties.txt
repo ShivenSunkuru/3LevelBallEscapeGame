@@ -1,0 +1,6 @@
+label = 20
+numRows = 100
+numCols = 100
+randomElements = false
+minRandVal = 5
+maxRandVal = 6
